@@ -8,10 +8,9 @@ This repository serves as a central hub for all my projects, strategies, and tec
 
 ## 📊 1. Data Analytics & Insights
 This section focuses on my ability to clean, merge, model, and visualize data to solve real-world problems.
-* **Excel Data Cleaning:** [View my US Presidents Project](https://github.com/Precious-248/US-Presidents-Data-Cleaning-Project)
-* **Data Merging & SQL:** *(Coming soon as I complete my upcoming technical tracks!)*
+* **Excel Data Cleaning:** [View my US Presidents Project](https://github.com/Precious-248/US-Presidents-Data-Cleaning-Project)* **Data Merging & Analysis:** [National Crime Trend Analysis](https://github.com/Precious-248/National-Crime-Trend-Analysis-2012-2024-)
 
----
+
 
 ## 📱 2. Social Media & CRM Strategy
 This section showcases my experience building digital communities, managing communications, and utilizing modern CRM platforms.
