@@ -26,10 +26,11 @@ This section showcases my experience building digital communities, managing comm
 ---
 
 ## 🚀 4. Continuous Learning & Professional Development
-* **Microdegree in Computer Essentials and Emerging Technologies** – *Pracvarsity Technology Limited* (In Progress)
+* **Microdegree in Computer Essentials and Emerging Technologies** – *Pracvarsity Technology Limited* (Completed)
   * An intensive 4-week program focused on mastering tech essentials and emerging digital frameworks to future-proof my career.
   * * **Applied Project: The RACCCA Framework** – A case study demonstrating how to apply structured prompt engineering to generate high-quality, professional academic outputs.  [View Project](https://github.com/Precious-248/prompt-engineering-raccca-framework).
----
+    * * **New Capstone Project:** [Leveraging Digital Tools for Administrative Efficiency](https://github.com/Precious-248/Capstone-Project-Leveraging-Digital-Tools-for-Administrative-Efficiency) – A comprehensive demonstration of integrating AI-driven tools (ChatGPT, Leonardo AI, Gamma, ElevenLabs) with data platforms (Excel, Power BI) to modernize public sector workflows. [View Project](https://github.com/Precious-248/Capstone-Project-Leveraging-Digital-Tools-for-Administrative-Efficiency).
+
 
 ## 🛠️ Tools & Technologies
 * **Data:** Microsoft Excel (Formulas, Functions, Data Merging), SQL (Basic Queries)
