@@ -32,8 +32,10 @@ This section showcases my experience building digital communities, managing comm
     * * **New Capstone Project:** [Leveraging Digital Tools for Administrative Efficiency](https://github.com/Precious-248/Capstone-Project-Leveraging-Digital-Tools-for-Administrative-Efficiency) – A comprehensive demonstration of integrating AI-driven tools (ChatGPT, Leonardo AI, Gamma, ElevenLabs) with data platforms (Excel, Power BI) to modernize public sector workflows. [View Project](https://github.com/Precious-248/Capstone-Project-Leveraging-Digital-Tools-for-Administrative-Efficiency).
 
 
-## 🛠️ Tools & Technologies
-* **Data:** Microsoft Excel (Formulas, Functions, Data Merging), SQL (Basic Queries)
-* **AI & Prompt Engineering:** RACCCA Framework for structured, professional, and audience-focused output
-* **Digital & CRM:** HubSpot CRM, Social Media Management Tools
-* **Design & Presentation:** Microsoft PowerPoint
+## 🛠 Tools & Technologies
+
+* **Data:** Microsoft Excel (Formulas, Functions, Data Merging), SQL (Basic Queries), Power BI (Data Visualization & Reporting).
+* **AI & Prompt Engineering:** RACCCA Framework, ChatGPT, Gemini, ElevenLabs (Voice-over production).
+* **Digital & CRM:** HubSpot CRM, Social Media Management Tools.
+* **Design & Presentation:** Microsoft PowerPoint, Gamma (AI-driven slide design), Leonardo AI (Generative visual assets).
+
