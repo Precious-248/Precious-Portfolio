@@ -1,6 +1,7 @@
 # Precious Osayomwanbor Efosa | Professional Portfolio
 
-Welcome to my portfolio! I am a Data Analyst specializing in Data Analytics, Visualization, and Business Intelligence. This repository serves as a central hub for all my analytical projects, datasets, and technical dashboards.
+Welcome to my portfolio! I am a Data Analyst in training, specializing in transforming raw data into actionable insights. This repository serves as a central hub for my analytical projects, technical dashboards, and AI-driven digital workflows.
+
 
 ---
 
